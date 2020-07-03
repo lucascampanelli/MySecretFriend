@@ -258,7 +258,7 @@
                     $userAlter->save();
                     if($userAlter->fail()){
                         echo $this->view->render("newPasswd", [
-                            "title" => "Recuperar senha | ".SITE,
+                            "title" => "Recuperação de senha | ".SITE,
                             "token" => $token,
                             "user" => $email,
                             "erroRecuperacao" => $userAlter->fail()->getMessage()
