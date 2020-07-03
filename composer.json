@@ -1,0 +1,32 @@
+{
+    "name": "lucascampanelli/mysecretfriend",
+    "description": "A website to raffle a secret friend (Secret Santa)",
+    "type": "project",
+    "autoload":{
+        "psr-4":{
+            "Source\\": "source/"
+        },
+        "files":[
+            "source/Config.php"
+        ]
+    },
+    "require": {
+        "php": "^7.3",
+        "ext-pdo": "*",
+        "coffeecode/router": "1.0.7",
+        "coffeecode/datalayer": "1.1.4",
+        "league/plates": "v4.0.0-alpha",
+        "league/oauth2-facebook": "2.x-dev",
+        "league/oauth2-google": "^3.0.2",
+        "phpmailer/phpmailer": "^6.1",
+        "vlucas/phpdotenv": "^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lucascampanelli",
+            "email": "lucas.campanelli@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
