@@ -210,7 +210,7 @@
                             $recover->save();
                             $email = new Email();
                             $email->createEmail(
-                                "Recuperação de senha | MySecretFriend",
+                                "Recuperar senha | MySecretFriend",
                                 "Olá, $confirmIdUser->nome_user!<br> Você solicitou uma recuperação de senha. Acesse <a href='http://localhost/mysecretfriend/recuperar/validado/$confirmIdUser->email/$token'>http://localhost/mysecretfriend/recuperar/validado/$confirmIdUser->email/$token</a> para recuperar sua senha.",
                                 $confirmIdUser->nome_user,
                                 $confirmIdUser->email
