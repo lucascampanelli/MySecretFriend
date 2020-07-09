@@ -1,6 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="http://localhost/mysecretfriend/view/assets/images/logo.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/lucascampanelli/MySecretFriend/blob/master/view/assets/images/logo.png?raw=true">
+ </a>
 </p>
 
 <h3 align="center">lucascampanelli/mysecretfriend</h3>
@@ -22,7 +23,6 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
@@ -71,8 +71,12 @@ End with an example of getting some data out of the system or using it for a lit
 
 
 ## 🎈 Usage <a name="usage"></a>
+```
+HOME
+```
+This page shows a form to sign up for the application and a button to redirect you to login page.
 
-Add notes about how to use the system.
+
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
