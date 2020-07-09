@@ -57,6 +57,12 @@ HOME
 ```
 This page shows a form to sign up for the application and a button to redirect you to login page.
  <img src="https://github.com/lucascampanelli/MySecretFriend/blob/master/signupView.png?raw=true">
+ <br>
+```
+LOGIN
+```
+This page shows a form to sign in.
+ <img src="https://github.com/lucascampanelli/MySecretFriend/blob/master/loginView.png?raw=true">
 
 
 
