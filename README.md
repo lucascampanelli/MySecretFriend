@@ -56,7 +56,7 @@ You'll need to have <b>Composer</b> instaled in your machine to be able to insta
 HOME
 ```
 This page shows a form to sign up for the application and a button to redirect you to login page.
- <img width=200px height=200px src="https://github.com/lucascampanelli/MySecretFriend/blob/master/Captura de Tela (2).png?raw=true">
+ <img src="https://github.com/lucascampanelli/MySecretFriend/blob/master/signupView.png?raw=true">
 
 
 
