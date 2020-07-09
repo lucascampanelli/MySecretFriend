@@ -51,30 +51,12 @@ It allows group creation between friends and family with a few clicks.
 
 You'll need to have <b>Composer</b> instaled in your machine to be able to install and update dependencies.
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-
 ## 🎈 Usage <a name="usage"></a>
 ```
 HOME
 ```
 This page shows a form to sign up for the application and a button to redirect you to login page.
+ <img width=200px height=200px src="https://github.com/lucascampanelli/MySecretFriend/blob/master/Captura de Tela (2).png?raw=true">
 
 
 
