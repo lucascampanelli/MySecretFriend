@@ -49,7 +49,7 @@ It allows group creation between friends and family with a few clicks.
 
 ### Prerequisites
 
-You'll need to have <b>Composer</b> instaled in your machine to be able to install and update dependencies.
+You'll need to have <b>Composer</b> installed in your machine to be able to install and update dependencies.
 
 ## 🎈 Usage <a name="usage"></a>
 ```
@@ -63,28 +63,38 @@ LOGIN
 ```
 This page shows a form to sign in.
  <img src="https://github.com/lucascampanelli/MySecretFriend/blob/master/loginView.png?raw=true">
+ <br>
+```
+DASHBOARD
+```
+Shows user groups. This page has sections such as user configuration and group creation.
+ <img src="https://github.com/lucascampanelli/MySecretFriend/blob/master/dashboardView.png?raw=true">
+ <br>
+```
+RAFFLE
+```
+Section to create a secret santa. It has a form to type all the information about the raffle.
+ <img src="https://github.com/lucascampanelli/MySecretFriend/blob/master/raffleView.png?raw=true">
+ <img src="https://github.com/lucascampanelli/MySecretFriend/blob/master/raffleexampleView.png?raw=true">
+ <br>
+```
+PASSWORD RECOVER
+```
+If necessary, this page sends an e-mail verification to recover the user's password.
+ <img src="https://github.com/lucascampanelli/MySecretFriend/blob/master/passwdrecoverView.png?raw=true">
+ <br>
 
-
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html) - Package
+- [VSCODE](https://code.visualstudio.com/) - Code editing
+- [Composer](https://getcomposer.org/) - Code editing
+- [Router](https://github.com/robsonvleite/router) - Library
+- [Data Layer](https://github.com/robsonvleite/datalayer) - Library
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Library
+- [phpdotenv](https://github.com/vlucas/phpdotenv) - Library
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- [@lucascampanelli](https://github.com/kylelobo) - Idea & Development
