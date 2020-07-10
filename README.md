@@ -94,4 +94,4 @@ If necessary, this page sends an e-mail verification to recover the user's passw
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@lucascampanelli](https://github.com/kylelobo) - Idea & Development
+- [@lucascampanelli](https://github.com/lucascampanelli) - Idea & Development
