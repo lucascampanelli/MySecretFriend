@@ -85,8 +85,8 @@ If necessary, this page sends an e-mail verification to recover the user's passw
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [XAMPP](https://www.apachefriends.org/pt_br/index.html) - Package
-- [VSCODE](https://code.visualstudio.com/) - Code editing
-- [Composer](https://getcomposer.org/) - Code editing
+- [VSCODE](https://code.visualstudio.com/) - Code editor
+- [Composer](https://getcomposer.org/) - Package manager
 - [Router](https://github.com/robsonvleite/router) - Library
 - [Data Layer](https://github.com/robsonvleite/datalayer) - Library
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Library
