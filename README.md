@@ -15,7 +15,7 @@
 
 ---
 
-######<p align="center"> A simple website to organize a secret santa with your friends and family.
+<p align="center"> A simple website to organize a secret santa with your friends and family.
     <br> 
 </p>
 
