@@ -25,7 +25,7 @@
        ?>
     </div>
     <div class='cardRaffles'>
-        <h3 class='subtitles'>Que tal sorteiar um novo amigo secreto?</h3>
+        <h3 class='subtitles'>Que tal sortear um novo amigo secreto?</h3>
             <center><button class='loginButton' onclick=<?= "window.location='".url("dashboard/sortear")."'"; ?>><div class='buttonText'><p>Criar</p></div><i class="fas fa-plus" id='iconButton'></i><center></button>
     </div>
     <div class='cardRaffles'>
